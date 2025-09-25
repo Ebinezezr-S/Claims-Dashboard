@@ -1,0 +1,4 @@
+policy_id,customer_name,phone_number,insurance_amount,property_address,claim_status
+POL001,Alice,9876543210,1000000,123 Main St,Submitted
+POL002,Bob,9123456780,750000,456 Elm St,Submitted
+POL003,Charlie,9988776655,500000,789 Oak St,Submitted
